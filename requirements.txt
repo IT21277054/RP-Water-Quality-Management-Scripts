@@ -1,0 +1,4 @@
+pandas
+openpyxl
+pymodbus==2.5.3
+
